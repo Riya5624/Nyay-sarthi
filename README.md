@@ -52,10 +52,15 @@ flutter run
 
 👩‍💻 Team CoDeZYPheR Members
 @padhmapriya6100 @Riya5624 – Project Lead & Flutter Developer
+
 @Riya5624 @yashasvim25 – Backend & API Integration
+
 @Dhr22 @zuberm786 – UI/UX Designer
+
 @Riya5624 @yashasvim25 – AI Module Development
+
 @charurawal @Dhr22 @zuberm786 – Testing & Quality Assurance
+
 @padhmapriya6100 @yashasvim25 @charurawal – Documentation & Deployment
 
 🤝 Contributing
