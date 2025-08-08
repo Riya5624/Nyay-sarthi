@@ -1,16 +1,66 @@
-# cj_ai_dashboard
+# Nyay-sarthi
 
-A new Flutter project.
+Nyay-sarthi is a Flutter-based application designed as an interactive AI-powered dashboard to assist users in accessing legal information and resources efficiently. The project supports multiple platforms, including Android, iOS, Web, Linux, macOS, and Windows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Overview
 
-A few resources to get you started if this is your first Flutter project:
+Nyay-sarthi aims to bridge the gap between legal knowledge and the public by offering a smart, user-friendly interface. The application leverages AI modules for quick insights, responsive design for accessibility, and scalable architecture for future enhancements.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- **AI Assistance** – Quick and intelligent responses to user queries.
+- **Multi-Platform Support** – Runs on Android, iOS, Web, Windows, macOS, and Linux.
+- **Responsive Dashboard** – Dynamic UI that adapts to all screen sizes.
+- **Modular Architecture** – Organized structure for scalability and clean code.
+- **Interactive Widgets** – Charts, data visualization, and forms.
+
+---
+
+## 🛠 Tech Stack
+
+| Component | Description |
+|-----------|-------------|
+| **Language** | Dart |
+| **Framework** | Flutter |
+| **Platforms** | Android, iOS, Web, Windows, Linux, macOS |
+| **Tools** | Android Studio, VS Code, GitHub |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install) (latest stable version)
+- Android Studio / Xcode / Web Browser setup for your target platform
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/Riya5624/Nyay-sarthi.git
+cd Nyay-sarthi
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+👩‍💻 Team CoDeZYPheR Members
+@padhmapriya6100 @Riya5624 – Project Lead & Flutter Developer
+@Riya5624 @yashasvim25 – Backend & API Integration
+@Dhr22 @zuberm786 – UI/UX Designer
+@Riya5624 @yashasvim25 – AI Module Development
+@charurawal @Dhr22 @zuberm786 – Testing & Quality Assurance
+@padhmapriya6100 @yashasvim25 @charurawal – Documentation & Deployment
+
+🤝 Contributing
+We welcome contributions!
+1. Fork the repository
+2. Create a feature branch (git checkout -b feature-name)
+3. Commit your changes
+4. Push to your branch and create a pull request
