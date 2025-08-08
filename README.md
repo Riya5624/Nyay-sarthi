@@ -51,12 +51,13 @@ flutter run
 ```
 
 👩‍💻 Team CoDeZYPheR Members
-• @https://github.com/padhmapriya6100 @https://github.com/Riya5624 – Project Lead & Flutter Developer
-• @Riya5624 @yashasvim25 – Backend & API Integration
-• @https://github.com/Dhr22 @https://github.com/zuberm786 – UI/UX Designer
-• @https://github.com/Riya5624 @https://github.com/yashasvim25 – AI Module Development
-• @https://github.com/charurawal @https://github.com/Dhr22 @https://github.com/zuberm786 – Testing & Quality Assurance
-• @https://github.com/padhmapriya6100 @https://github.com/yashasvim25 @https://github.com/charurawal – Documentation & Deployment
+- **[@padhmapriya6100](https://github.com/padhmapriya6100)**, **[@Riya5624](https://github.com/Riya5624)** – Project Lead & Flutter Developer  
+- **[@Riya5624](https://github.com/Riya5624)**, **[@yashasvim25](https://github.com/yashasvim25)** – Backend & API Integration  
+- **[@Dhr22](https://github.com/Dhr22)**, **[@zuberm786](https://github.com/zuberm786)** – UI/UX Designer  
+- **[@Riya5624](https://github.com/Riya5624)**, **[@yashasvim25](https://github.com/yashasvim25)** – AI Module Development  
+- **[@charurawal](https://github.com/charurawal)**, **[@Dhr22](https://github.com/Dhr22)**, **[@zuberm786](https://github.com/zuberm786)** – Testing & Quality Assurance  
+- **[@padhmapriya6100](https://github.com/padhmapriya6100)**, **[@yashasvim25](https://github.com/yashasvim25)**, **[@charurawal](https://github.com/charurawal)** – Documentation & Deployment  
+
 
 🤝 Contributing
 We welcome contributions!
